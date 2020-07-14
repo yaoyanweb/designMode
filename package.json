@@ -1,0 +1,19 @@
+{
+  "name": "design-mode",
+  "version": "1.0.0",
+  "description": "设计模式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoyanweb/designMode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoyanweb/designMode/issues"
+  },
+  "homepage": "https://github.com/yaoyanweb/designMode#readme"
+}
