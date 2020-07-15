@@ -58,7 +58,7 @@ fs.open('./test1.txt', 'r+', function(err, fd) {
     if (err) {
         return console.error(err);
     }
-   console.log("文件打开成功！",fd);     
+   console.log("文件打开成功！");     
  });
 
 fs.readFile('./test2.txt','utf8',function(err,data){
